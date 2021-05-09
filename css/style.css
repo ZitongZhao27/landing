@@ -1,0 +1,43 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: "微软雅黑";
+	background:#fff;
+	color:#333;
+}
+a{
+	text-decoration: none
+}
+ul{
+	list-style: none
+}
+.container{
+	width:700px;
+	margin:40px auto;
+	box-shadow: 0px 0px 10px rgb(0,0,0,0.1);
+	border-radius:5px;
+}
+.content{
+	width:500px;
+	padding:40px 100px;
+}
+img{
+	margin:40px 0px;
+}
+p{
+	margin:20px 0px;
+	line-height: 30px
+}
+h1 span{
+	line-height:130px;
+	float:left;
+}
+h1 img{
+	float:right;
+}
+button{
+	padding:10px 10px;
+}
